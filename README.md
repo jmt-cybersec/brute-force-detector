@@ -41,8 +41,6 @@ In a real-world environment, this could trigger:
 
 ## 🔧 Possible Next Steps
 
-## 🔧 Possible Next Steps
-
 ## As I'm still learning, here are a few simple ways I plan to improve this project ##
 - **Make the alert limit customizable** – Instead of always checking for 2 failed logins, allow the user to choose the number.
 - **Add color to the output** – Make the warning messages easier to spot in the terminal.
