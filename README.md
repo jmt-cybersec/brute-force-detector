@@ -52,6 +52,10 @@ These steps will help me understand Python better and make this tool more useful
 
 > I’m always looking to improve my code and learn more — feedback is welcome!
 
+**🙋 About Me**
+I'm currently studying Computing and Information Systems with a minor in AI/ML. I'm building small, real-world security tools to learn how Python and automation play a role in modern cybersecurity.
+
+GitHub: [@jmt-cybersec](https://github.com/jmt-cybersec)
 
 
 
